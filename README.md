@@ -13,3 +13,15 @@ int main() {
  return 0;
 }
 ``` 
+## Exemplo de lista ordenada
+1. Item 1
+2. Item 2
+   2.1. Item 2.1
+   2.2. Item 2.2
+3. Item 3
+4. 
+## Exemplo de lista em tópicos
+
+* Item 1
+* Item 2
+* Item 3
